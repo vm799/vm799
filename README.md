@@ -1,4 +1,4 @@
-<h2 align="left">Hi!<br>I'm Vaishali.<br><br>Graduate software developer from London.<br>I love to problem solve, design and build... <br><br>and i adore cocker spaniels  🧡</h2>
+<h2 align="left">Hi!<br>I'm Vaishali.<br><br>Test Automation Engineer & junior Java developer from London.<br>I love to problem solve, design and build... <br><br>and i adore cocker spaniels  🧡</h2>
 
 ###
 
