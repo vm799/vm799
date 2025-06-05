@@ -1,6 +1,6 @@
 <h2 align="left">Hi!<br>I'm Vaishali.<br><br>
 
-<br>I love to lead, problem solve, design and build and lead complex technical projects with my passion for celebrating the fusion of AI and Human potential <br><br>and i adore cocker spaniels  🧡</h2>
+<br>Love building things that make AI and humans work better together | Always hunting for the next complex challenge | Cocker spaniels > cats (sorry not sorry) 🐾  🧡</h2>
 
 ###
 
